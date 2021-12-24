@@ -7,3 +7,9 @@ An internal data set on bottle content percentages was provided for the challeng
 - kaggle_train_128.zip - the training set. It contains 15000 images (3000 for each class), each of size 128*128. After extraction, there will be 5 sub-folders. The name of the sub-folder is the corresponding class.
 
 - kaggle_test_128.zip - the test set. It contains 3500 images, each of size 128*128.
+
+## model graph
+![](model.png)
+## Leaderboard
+
+![](results.PNG)
